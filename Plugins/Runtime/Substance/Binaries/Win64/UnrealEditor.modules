@@ -1,9 +1,0 @@
-{
-	"BuildId": "27405482",
-	"Modules": 
-	{
-		"SubstanceConnector": "UnrealEditor-SubstanceConnector.dll",
-		"SubstanceCore": "UnrealEditor-SubstanceCore.dll",
-		"SubstanceEditor": "UnrealEditor-SubstanceEditor.dll"
-	}
-}
